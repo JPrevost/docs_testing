@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Using TIMDEX API with Ruby
+title: Using TIMDEX API with Python
 parent: Tutorials
 ---
 
-## Ruby tutorial
+## Python tutorial
 
 ### Stuff
 
