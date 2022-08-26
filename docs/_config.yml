@@ -5,6 +5,9 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
 plugins:
   - "jekyll-remote-theme"
 color_scheme: dark
+aux_links:
+  "Timdex":
+    - "//timdex.mit.edu"
 
 exclude:
   - architecture-decisions
