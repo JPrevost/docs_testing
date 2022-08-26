@@ -1,6 +1,16 @@
-# HalloAgain
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-This is an example of our future index page. This is where we'd want background information and links
-to various types of documentation.
+layout: home
+title: Overview
+nav_order: 0
+---
 
-When launching the "new" docs site, we'd likely add a link from here back to the old one during the "deprecation" period of the 1.x API and then after retirement this would be the only remaining index page.
+About TIMDEX API
+
+TIMDEX is a free discovery API into collections at MIT Libraries.
+
+This site provides examples, tutorials, and reference documentation.
+
+If you have any questions, please reach out via timdex@mit.edu!

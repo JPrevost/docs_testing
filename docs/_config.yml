@@ -1,7 +1,10 @@
 title: TIMDEX API Documentation
 description: TIMDEX API Documentation
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
 plugins:
   - "jekyll-remote-theme"
 color_scheme: dark
+
+exclude:
+  - architecture-decisions
