@@ -2,6 +2,7 @@
 layout: home
 title: Using the GraphQL Playground
 parent: Tutorials
+nav_order: 1
 ---
 
 ## Using the GraphQL Playground
