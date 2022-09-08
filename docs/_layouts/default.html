@@ -7,36 +7,6 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <body>
-  <style>
-    a.skip-main {
-      left: -999px;
-      position: absolute;
-      top: auto;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
-      z-index: -999;
-    }
-
-    a.skip-main:focus,
-    a.skip-main:active {
-      color: #fff;
-      background-color: #000;
-      left: auto;
-      top: auto;
-      width: 30%;
-      height: auto;
-      overflow: auto;
-      margin: 10px 35%;
-      padding: 5px;
-      border-radius: 15px;
-      border: 4px solid yellow;
-      text-align: center;
-      font-size: 1.2em;
-      z-index: 999;
-    }
-
-  </style>
   <a class="skip-main" href="#top">Skip to main content</a>
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <symbol id="svg-link" viewBox="0 0 24 24">
@@ -245,6 +215,7 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+
 </body>
 {% if site.mermaid %}
   <script>
