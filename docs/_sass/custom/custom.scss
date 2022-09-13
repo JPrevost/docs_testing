@@ -1,5 +1,3 @@
-@import "./skiptomain";
-
 .site-header, .site-header:hover {
   background-color: transparent;
 }
@@ -16,8 +14,8 @@
   fill: $link-color;
 }
 
-.site-header {
-  background-image: url(/assets/images/vi-shape7-tp-b8cef7a0a4939a7f3fb1d2da822e05b269d531b990288f0d68d59a2834b8866a.svg);
+.site-title, .site-title:hover {
+  background-image: url(/assets/images/vi-shape7-tp.svg);
   background-repeat: no-repeat;
   background-position: 0 65%;
   background-size: cover;
@@ -79,6 +77,7 @@ footer {
   position: fixed;
   bottom: 0;
   background-color: $body-background-color;
+  font-size: 12pt;
 }
 
 .side-bar {

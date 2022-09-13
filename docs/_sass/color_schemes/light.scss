@@ -1,12 +1,12 @@
 @import 'global/variables';
 
 $body-background-color: $white;
-$sidebar-color: $black;
+$sidebar-color: $gray-l4;
 $border-color: $grey-dk-200;
 $body-text-color: $black;
 $body-heading-color: $black;
-$nav-child-link-color: $gray-warm;
-$nav-link-color: $gray-warm;
+$nav-child-link-color: $black;
+$nav-link-color: $black;
 $search-result-preview-color: $grey-dk-000;
 $link-color: $blue;
 $btn-primary-color: $blue-200;
@@ -15,7 +15,7 @@ $search-background-color: $grey-dk-250;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
 
-$site-logo-color: $white;
+$site-logo-color: $black;
 
 $code-background-color: $white-warm;
 

@@ -7,8 +7,7 @@ title: Overview
 nav_order: 0
 has_toc: true
 ---
-
-## About TIMDEX API
+# About TIMDEX API
 
 TIMDEX is a free discovery API into collections at MIT Libraries.
 
