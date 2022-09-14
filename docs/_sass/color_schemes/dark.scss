@@ -22,3 +22,8 @@ $site-logo-color: $white;
 $code-background-color: $gray-d2;
 
 $footer-text-color: $gray-warm;
+
+.site-title,
+.site-title:hover {
+  background-image: url(../../assets/images/logo-cc616f47-6732-4cea-b061-887a9f971038.svg) !important;
+}

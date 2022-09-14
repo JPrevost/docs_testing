@@ -20,3 +20,8 @@ $site-logo-color: $black;
 $code-background-color: $white-warm;
 
 $footer-text-color: $black;
+
+.site-title,
+.site-title:hover {
+  background-image: url(../../assets/images/logo-cc616f47-6732-4cea-b061-887a9f971038-light.svg) !important;
+}
