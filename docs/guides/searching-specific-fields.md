@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Targeting specific fields with your search
-parent: Examples
+parent: How-to guides
 ---
 
 ## Targeting specific fields with your search

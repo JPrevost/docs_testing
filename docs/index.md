@@ -11,6 +11,6 @@ has_toc: true
 
 TIMDEX is a free discovery API into collections at MIT Libraries.
 
-This site provides examples, tutorials, and reference documentation.
+This documentation site provides tutorials, guides, reference documentation, and technical overviews.
 
 If you have any questions, please reach out via timdex@mit.edu!

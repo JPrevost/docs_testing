@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Highlightning search terms
-parent: Examples
+title: Highlighting search terms
+parent: How-to guides
 ---
 
 ## Highlighting search terms in results

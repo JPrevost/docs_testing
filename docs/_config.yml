@@ -12,3 +12,8 @@ aux_links:
 
 exclude:
   - architecture-decisions
+
+nav_external_links:
+  - title: Reference Docs
+    url: ./reference
+    hide_icon: false # set to true to hide the external link icon - defaults to false

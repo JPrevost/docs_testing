@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Returning fields in GraphQL
-parent: Examples
+parent: How-to guides
 nav_order: 2
 ---
 

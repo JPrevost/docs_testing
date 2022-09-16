@@ -1,12 +1,11 @@
 ---
 layout: home
-title: Go
+title: Ruby
 parent: Language specific guides
 grand_parent: Tutorials
-permalink: /tutorials/languages/go/
 ---
 
-## Using TIMDEX API with Go
+## Using TIMDEX API with Ruby
 
 ### Stuff
 

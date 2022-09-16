@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Keyword searching
-parent: Examples
+parent: How-to guides
 nav_order: 1
 ---
 
