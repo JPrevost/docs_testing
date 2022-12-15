@@ -7,11 +7,12 @@ title: Overview
 nav_order: 0
 has_toc: true
 ---
-
 # About TIMDEX API
 
 TIMDEX is a free discovery API into collections at MIT Libraries.
 
-This site provides examples, tutorials, and reference documentation.
+This documentation site provides tutorials, guides, reference documentation, and technical overviews.
 
 If you have any questions, please reach out via timdex@mit.edu!
+
+![TIMDEX mascot: a variant of the MIT mascot with the words TIMDEX in a speech bubble!](https://s3.amazonaws.com/mit-quicksubmit-stage/stuff/timdex-beaver.png)

@@ -40,7 +40,8 @@ coming soon!
 
 ### Experimental sources
 
-These sources are searchable via changing the `index` value in your query to `rdi*`
+These sources are searchable via changing the `index` value in your query to `rdi`. The content is not updated regularly
+as these are experimental sources we are evaluating for future inclusion.
 
 #### Abdul Latif Jameel Poverty Action Lab Dataverse
 

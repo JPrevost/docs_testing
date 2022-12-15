@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Limiting your search to specified source(s)
-parent: Examples
+parent: How-to guides
 ---
 
 ## Limiting your search to specified source(s)
