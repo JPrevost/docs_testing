@@ -38,7 +38,7 @@ jobs:
         run: npm install -g spectaql@v2
       - name: Build reference docs
         run: |
-          spectaql --introspection-url https://timdex-stage.herokuapp.com/graphql -e -t /github/workspace/_site/reference docs/reference/config.yml
+          spectaql --introspection-url https://timdex-stage.herokuapp.com/graphql -e -t ./_site/reference docs/reference/config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
