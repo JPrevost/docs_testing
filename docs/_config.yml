@@ -12,6 +12,7 @@ aux_links:
 
 exclude:
   - architecture-decisions
+  - reference
 
 nav_external_links:
   - title: Reference Docs
