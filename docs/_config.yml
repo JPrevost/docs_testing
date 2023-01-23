@@ -1,10 +1,11 @@
 title: MIT Libraries TIMDEX API Documentation
 description: TIMDEX API Documentation
 
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
 plugins:
   - "jekyll-remote-theme"
   - "jekyll-seo-tag"
+layout: mitlib
 color_scheme: dark
 aux_links:
   "Timdex":
@@ -12,7 +13,6 @@ aux_links:
 
 exclude:
   - architecture-decisions
-  - reference
 
 nav_external_links:
   - title: Reference Docs
@@ -20,4 +20,4 @@ nav_external_links:
     hide_icon: false # set to true to hide the external link icon - defaults to false
 
 mermaid:
-  version: "9.1.7"
+  version: "9.3.0"
